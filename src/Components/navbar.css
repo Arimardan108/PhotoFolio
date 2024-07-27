@@ -1,0 +1,20 @@
+.footer{
+    height: 75px;
+    width: 100%;
+    display: flex;
+    background-color: lightblue;
+    
+}
+
+.footer img{
+    height: 60px;
+    width: 60px;
+    margin: 15px;
+
+}
+.text{
+    font-size: 1.6rem;
+    font-weight: 700;
+    /* color: white; */
+    margin-top: 25px;
+}
